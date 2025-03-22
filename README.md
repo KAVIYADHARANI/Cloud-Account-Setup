@@ -140,7 +140,8 @@ AWS provides tools to build, deploy, and manage mobile applications.
 6. Backup & Disaster Recovery – Secure storage and failover solutions.
 
 ## Output:
-![alt text](<WhatsApp Image 2025-03-09 at 16.39.16_07dcb5b7.jpg>)
+![WhatsApp Image 2025-03-09 at 16 39 16_5560314f](https://github.com/user-attachments/assets/6373838f-5597-41d3-9447-9ccfc80c0ac6)
+
 Snapshot 1 : cloud account creation in AWS platform.
 ## Conclusion:
 AWS provides a wide range of cloud services that enable businesses and developers to build,
